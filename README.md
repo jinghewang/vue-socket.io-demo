@@ -1,7 +1,9 @@
 # vue-socket.io-demo
 
 ## demo for vue-socket.io
-demo for Vue-Socket.io [Vue-Socket.io](https://github.com/MetinSeylan/Vue-Socket.io)
+Demo for [MetinSeylan/Vue-Socket.io](https://github.com/MetinSeylan/Vue-Socket.io)  
+
+这是一个使用示例，需要配合服务端使用。
 
 ## Project setup
 ```
