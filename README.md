@@ -1,5 +1,8 @@
 # vue-socket.io-demo
 
+## demo for vue-socket.io
+demo for Vue-Socket.io [Vue-Socket.io](https://github.com/MetinSeylan/Vue-Socket.io)
+
 ## Project setup
 ```
 npm install
